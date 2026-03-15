@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lahiru! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Lahiru! <br/> <a href="https://www.linkedin.com/in/LahiruDharmarathna/">Cybersecurity Professional</a></h1>
 
 
 
