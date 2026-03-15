@@ -1,6 +1,8 @@
 <h1>Hi, I'm Lahiru! <br/> <a href="https://www.linkedin.com/in/LahiruDharmarathna/">Cybersecurity Professional</a></h1>
 
+<h2>👨‍💻 Technical Security Projects</h2>
 
+<h2>👨‍💻 Management Security Projects -GRC</h2>
 
 <h2> 👯 Social Life: Volunteering Expereince</h2>
 
