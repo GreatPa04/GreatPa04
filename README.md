@@ -22,7 +22,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LahiruDharmarathna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
- https://linkedin.com/in/lahiru-dharmarathna-32278211b/ check this post - How Fast Cybersecurity Is Shaping the Modern Automotive Industry  (https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_exploring-how-fast-cybersecurity-is-share-7434137923161227264-w9wh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y)
+https://linkedin.com/in/lahiru-dharmarathna-32278211b/ check these posts - 
+1. How Fast Cybersecurity Is Shaping the Modern Automotive Industry  (https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_exploring-how-fast-cybersecurity-is-share-7434137923161227264-w9wh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y)
+2. Eye-opening experience that gives you a fresh perspective on your cybersecurity journey (European Union Agency for Cybersecurity (ENISA) .https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_this-could-be-an-eye-opening-experience-that-share-7492610309434671104-7Nki/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y
+3. 
 
 
 
