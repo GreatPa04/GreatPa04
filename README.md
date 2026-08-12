@@ -1,8 +1,13 @@
 <h1>Hej, I'm Lahiru! <br/> <a href="https://www.linkedin.com/in/LahiruDharmarathna/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Technical Security Projects</h2>
+<h2> 🤳 Connect with me:</h2>
 
-<h2>👨‍💻 Management Security Projects -GRC</h2>
+[<img align="left" alt="LahiruDharmarathna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+https://linkedin.com/in/lahiru-dharmarathna-32278211b/ Check these posts - 
+1. How Fast Cybersecurity Is Shaping the Modern Automotive Industry  (https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_exploring-how-fast-cybersecurity-is-share-7434137923161227264-w9wh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y)
+2. Eye-opening experience that gives you a fresh perspective on your cybersecurity journey (European Union Agency for Cybersecurity (ENISA) .https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_this-could-be-an-eye-opening-experience-that-share-7492610309434671104-7Nki/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y
+3. Automotive Cybersecurity Incidents Europe Must Learn From.  https://www.linkedin.com/pulse/3-automotive-cybersecurity-incidents-europe-must-from-dharmarathna-jtpbe/?trackingId=Xme%2FBArfT9KTI5xamX6%2F7w%3D%3D
+   
 
 <h2> 👯 Social Life: Volunteering Expereince</h2>
 
@@ -19,16 +24,13 @@
 - [Did You Know? Most organizations experience a Cyberattack every year](https://www.linkedin.com/pulse/did-you-know-most-organizations-experience-every-year-dharmarathna-a2bbe/?trackingId=zz5QBVEnSuG9j%2F883bZ%2FPQ%3D%3D)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>👨‍💻 Technical Security Projects</h2>
 
-[<img align="left" alt="LahiruDharmarathna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-https://linkedin.com/in/lahiru-dharmarathna-32278211b/ Check these posts - 
-1. How Fast Cybersecurity Is Shaping the Modern Automotive Industry  (https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_exploring-how-fast-cybersecurity-is-share-7434137923161227264-w9wh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y)
-2. Eye-opening experience that gives you a fresh perspective on your cybersecurity journey (European Union Agency for Cybersecurity (ENISA) .https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_this-could-be-an-eye-opening-experience-that-share-7492610309434671104-7Nki/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y
-3. Automotive Cybersecurity Incidents Europe Must Learn From.  https://www.linkedin.com/pulse/3-automotive-cybersecurity-incidents-europe-must-from-dharmarathna-jtpbe/?trackingId=Xme%2FBArfT9KTI5xamX6%2F7w%3D%3D
-   
+🔭 I’m currently working on ---- check below repos
 
+<h2>👨‍💻 Management Security Projects -GRC</h2>
 
+🔭 I’m currently working on ---- check below repos
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
