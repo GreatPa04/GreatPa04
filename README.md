@@ -23,7 +23,8 @@
 
 [<img align="left" alt="LahiruDharmarathna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/lahiru-dharmarathna-32278211b/
+[linkedin]: https://linkedin.com/in/lahiru-dharmarathna-32278211b/ check this post - How Fast Cybersecurity Is Shaping the Modern Automotive Industry  (https://www.linkedin.com/posts/lahiru-dharmarathna-32278211b_exploring-how-fast-cybersecurity-is-share-7434137923161227264-w9wh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3WG0oB9O7glHlXLXFuzAEU6HqMc7tib8Y)
+
 
 
 <!--
